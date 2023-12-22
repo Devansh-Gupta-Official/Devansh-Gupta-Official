@@ -10,7 +10,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Devansh-Gupta-Official&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-Gupta-Official&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devanshgupta03)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Devansh-Gupta-Official&theme=dark&no-frame=false&no-bg=false&margin-w=4)
