@@ -1,6 +1,7 @@
 ![github-header-image (1)](https://github.com/Devansh-Gupta-Official/Devansh-Gupta-Official/assets/100591612/2f0b2421-90a0-4cff-8e77-b786fcef344a)
 
-https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+
+![profile'](https://github.com/Devansh-Gupta-Official/Devansh-Gupta-Official/assets/100591612/247c3a01-d11d-421c-b9f5-5908a426095c)
 
 # 🙋‍♂️ About Me:
 🔭 I’m currently learning Competitive Coding and DSA.<br>👯 I’m looking to collaborate on any Machine Learning projects.<br>
