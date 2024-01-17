@@ -1,10 +1,10 @@
 ![github-header-image (1)](https://github.com/Devansh-Gupta-Official/Devansh-Gupta-Official/assets/100591612/2f0b2421-90a0-4cff-8e77-b786fcef344a)
 
 <h1 align="center">Hey 👋, I'm Devansh Gupta</h1>
-# 🙋‍♂️ About Me:
-<div width="400"> ![Walking](https://github.com/Devansh-Gupta-Official/Devansh-Gupta-Official/assets/100591612/37315df8-72c4-495d-b4ab-42063bc4a5f9) </div>
-<p align="left"> </p>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif">
+
+# 🙋‍♂️ About Me:
 
 - 🔭 I’m currently learning Competitive Coding and DSA.
 
