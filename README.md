@@ -2,8 +2,9 @@
 
 <h1 align="center">Hey 👋, I'm Devansh Gupta</h1>
 # 🙋‍♂️ About Me:
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fmearajennifer%2Fgifs-many-gifs%2F&psig=AOvVaw00wqBcmjxHkW0b4p9Blhfj&ust=1705558853757000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODwnYHk44MDFQAAAAAdAAAAABAD"
+<div width="400"> ![Walking](https://github.com/Devansh-Gupta-Official/Devansh-Gupta-Official/assets/100591612/37315df8-72c4-495d-b4ab-42063bc4a5f9) </div>
 <p align="left"> </p>
+
 
 - 🔭 I’m currently learning Competitive Coding and DSA.
 
