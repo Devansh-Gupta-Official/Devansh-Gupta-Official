@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/Devansh-Gupta-Official/Devansh-Gupta-Official/assets/100591612/2f0b2421-90a0-4cff-8e77-b786fcef344a)
+![github-header-image](https://github.com/Devansh-Gupta-Official/Devansh-Gupta-Official/assets/100591612/a62f0d6b-68cf-4d31-a4e5-556a68a33fd6)
+
 
 <!--<h1 align="center">Hey 👋, I'm Devansh Gupta</h1>-->
 
