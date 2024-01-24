@@ -12,11 +12,11 @@
 
 # 🙋‍♂️ About Me:
 
-- 🔭 I’m currently learning Competitive Coding and DSA.
+- 🔭 I’m currently learning DSA and MERN Stack.
 
 - 👯 I’m looking to collaborate on any Machine Learning projects
 
-- ⚡ "When not coding, you'll find me gaming and socializing."
+- ⚡ "When not coding, you'll find me gaming."
 
 <h3 align="left">Connect with me:- </h3>
 <p align="left">
