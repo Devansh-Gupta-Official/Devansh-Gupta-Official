@@ -1,8 +1,5 @@
 ![github-header-image](https://github.com/Devansh-Gupta-Official/Devansh-Gupta-Official/assets/100591612/a62f0d6b-68cf-4d31-a4e5-556a68a33fd6)
 
-
-<!--<h1 align="center">Hey 👋, I'm Devansh Gupta</h1>-->
-
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU0NzUzNzQsIm5iZiI6MTcwNTQ3NTA3NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE3VDA3MDQzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU1NjJjOWQ0MTExNjU0ODJkY2YyNGQ0ODljMmRjODBjYjNkMWY2N2MwYWQ1MTNkN2NjNzhlYjkwNGY3OTg3ZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lRWxkwzpUHdEoCL0wcsbRdkvTki1xVpghCpwOJwfA3E">
 
 <h1>
