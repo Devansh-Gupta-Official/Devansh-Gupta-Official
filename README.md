@@ -14,8 +14,6 @@
 - 👯 I’m looking to collaborate on any Machine Learning and Computer Vision projects.
 
 - ⚡ "When not coding, you'll find me gaming."
-  
-- Feel free to star ⭐️ some of my repos and let's create the future together! 🚀
 
 <h3 align="left">Connect with me:- </h3>
 <p align="left">
