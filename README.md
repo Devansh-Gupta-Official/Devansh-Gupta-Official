@@ -9,9 +9,9 @@
 
 # 🙋‍♂️ About Me:
 
-- 🔭 I’m currently learning DSA and MERN Stack.
+- 🔭 I’m currently learning DSA and Flask.
 
-- 👯 I’m looking to collaborate on any Machine Learning and Computer Vision projects.
+- 👯 I’m looking to collaborate on any Machine Learning and Data Science Projects. 
 
 - ⚡ "When not coding, you'll find me gaming."
 
