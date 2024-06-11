@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on any Machine Learning and Data Science Projects. 
 
-- ⚡ "When not coding, you'll find me gaming."
+- ⚡ 
 
 <h3 align="left">Connect with me:- </h3>
 <p align="left">
